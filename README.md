@@ -10,6 +10,13 @@ Data: hawaii.sqlite
 Software: SQLite SQLAlchemy, Python, Jupyter Notebook
 
 ## Results
+June:
+
+<img width="103" alt="June" src="https://user-images.githubusercontent.com/74752756/109435787-cf73b000-79e1-11eb-880e-f9a7b74c47c4.PNG">
+
+December:
+
+<img width="104" alt="December" src="https://user-images.githubusercontent.com/74752756/109435801-de5a6280-79e1-11eb-9b69-3d6c37fd25a4.PNG">
 
 * On average, tempuratures on Oahu are about 4 degrees higher in June than in December (74.9 and 71.0 respectively)
 
@@ -18,7 +25,7 @@ Software: SQLite SQLAlchemy, Python, Jupyter Notebook
 * The high temperatures for both months are pretty similar (83 in December and 85 in June), however there is a considerable differnce in low tempuratures (56 in December vs 64 in June). This means June weather may be slightly more predictable whereas December temperatures are not.
 
 ## Summary
-Although W. Avy only requested we examine the temperature data for June and December, it may be worthwhile to also look at the precipitation during those months as well. Not many people would be out surfing in thunderstorms! This infomation would be beneficial in determining whether or not to keep the shop open all year. For instance, if most days in December are rainy and days in June are sunny, it may not be practical to keep the shop open in December, even though the above analysis showed that temperatures are, on average, almost as warm as June.
+Although W. Avy only requested we examine the temperature data for June and December, it may be worthwhile to look at the precipitation during those months as well. Not many people would be out surfing in thunderstorms! This infomation would be beneficial in determining whether or not to keep the shop open all year. For instance, if most days in December are rainy and days in June are sunny, it may not be practical to keep the shop open in December, even though the above analysis showed that temperatures are, on average, almost as warm as June.
 
 Another thing to consider, but was not included in our data set, is wind speed. Too windy may prove difficult for many surfers. Strong winds also may not be ideal for ice cream eaters either, it might blow the scoop right off the cone!
 
